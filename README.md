@@ -1,4 +1,4 @@
-👋 Hi, I’m @QuansahArts, a passionate web and software developer with a love for creating innovative digital solutions.
+👋 Hi, I’m Nana Kofi Quansah, a passionate web and software developer with a love for creating innovative digital solutions.
 
 👀 I’m interested in a wide range of topics in the tech world, including web development, mobile app development, machine learning, and open-source projects. I enjoy staying up-to-date with the latest technologies and trends.
 
@@ -8,7 +8,7 @@
 
 📫 How to reach me:
 - You can connect with me on [Whatsapp]((https://api.whatsapp.com/send?phone=233204753769))
-- Follow me on [Instagram](https://www.instagram.com/scartech_gh/e)
-- Check out my portfolio website: [https://www.quansaharts.dev](https://quansaharts.github.io/CodeCraftStudio.com/))
+- Follow me on #
+- Check out my portfolio website: #
 
 Feel free to reach out if you'd like to collaborate, have questions, or just want to chat about tech! Let's create amazing things together.
